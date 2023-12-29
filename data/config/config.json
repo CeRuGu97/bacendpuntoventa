@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "root",
+        "password": "admin",
+        "database": "puntoventa",
+        "host": "localhost",
+        "dialect": "mariadb"
+    },
+    "test": {
+        "username": "root",
+        "password": "admin",
+        "database": "puntoventa",
+        "host": "localhost",
+        "dialect": "mariadb"
+    },
+    "production": {
+        "username": "root",
+        "password": "admin",
+        "database": "puntoventa",
+        "host": "localhost",
+        "dialect": "mariadb"
+    }
+}
